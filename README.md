@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lucastomsaw)
 
 <div style="width: 200px;">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasvg90)](https://github.com/Lucasvg90/github-readme-stats)
+[[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasvg90)](https://github.com/Lucasvg90/github-readme-stats)
   </div>
